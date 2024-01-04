@@ -1,0 +1,8 @@
+{
+  "accept_button": "Change names",
+  "browse_files_button": "Browse files",
+  "entry_box_placeholder": "Enter directory path to folder where you want to rename files:",
+  "filedialog_title": "Select directory",
+  "messagebox_text": "Done!",
+  "title": "Photo renamer"
+}
